@@ -15,3 +15,22 @@ SolAR-TS is a pre-processed time-series dataset of SHARP LoS magnetograms for fo
 The Data files are hosted on Zenodo:
 DOI:
 `https://doi.org/10.5281/zenodo.18814838`
+
+## Citation
+If you use this dataset please cite:
+```bibtex
+@dataset{shenoy_2026_18814838,
+  author       = {Shenoy, Ashwini Nagaraj and
+                  HN, Adithya and
+                  VIJAYASENAN, DEEPU and
+                  Padinhatteeri, Sreejith and
+                  Raghavendra B. S.},
+  title        = {SolAR-TS},
+  month        = feb,
+  year         = 2026,
+  publisher    = {Zenodo},
+  version      = {v1.0},
+  doi          = {10.5281/zenodo.18814838},
+  url          = {https://doi.org/10.5281/zenodo.18814838},
+}
+```
